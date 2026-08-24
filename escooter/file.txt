@@ -1,0 +1,5 @@
+Title:"E-Scooter zs-klappen"
+Description:
+*****Markdown-Anfang*****
+Fahrgäste müssen E-Scooter zusammenklappen oder Fahrradkarte kaufen. (DE und EN)
+*****Markdown-Ende*****
