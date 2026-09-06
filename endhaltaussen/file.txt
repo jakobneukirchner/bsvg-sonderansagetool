@@ -1,4 +1,4 @@
-Title:"Endhaltestelle (innen)"
+Title:"Endhaltestelle (außen)"
 Description:
 *****Markdown-Anfang*****
 **Außenansage** Endhaltestelle. Bitte nicht einteigen. (DE und EN)
