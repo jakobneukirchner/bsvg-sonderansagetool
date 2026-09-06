@@ -3,3 +3,4 @@ Description:
 *****Markdown-Anfang*****
 **Außenansage** Alle Türen nutzen +  "Zurückbleiben bitte". (DE und EN)
 *****Markdown-Ende*****
+Gong:gong-kurz.mp3
