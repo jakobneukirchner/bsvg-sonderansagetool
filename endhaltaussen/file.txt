@@ -1,0 +1,6 @@
+Title:"Endhaltestelle (innen)"
+Description:
+*****Markdown-Anfang*****
+**Außenansage** Endhaltestelle. Bitte nicht einteigen. (DE und EN)
+*****Markdown-Ende*****
+Gong:gong-kurz.mp3
