@@ -3,3 +3,4 @@ Description:
 *****Markdown-Anfang*****
 Bitte durchgehen. (DE und EN)
 *****Markdown-Ende*****
+Gong:gong-kurz.mp3
