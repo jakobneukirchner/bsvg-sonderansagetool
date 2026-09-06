@@ -3,3 +3,4 @@ Description:
 *****Markdown-Anfang*****
 FG Hinweis Erwerb Radkarte. (DE und EN)
 *****Markdown-Ende*****
+Gong:gong-kurz.mp3
