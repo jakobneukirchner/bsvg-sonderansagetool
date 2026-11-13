@@ -1,0 +1,6 @@
+Title:"Gute Nacht"
+Description:
+*****Markdown-Anfang*****
+Gute Nacht (DE)
+*****Markdown-Ende*****
+Gong:gong-kurz.mp3
